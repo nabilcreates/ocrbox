@@ -72,3 +72,4 @@ venv/
 *.c
 
 input.*
+output.*
